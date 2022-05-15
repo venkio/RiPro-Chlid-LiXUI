@@ -1,0 +1,155 @@
+.ripro-dark .home-first-screen .home-menus a:hover, .ripro-dark .modular-title-2 .section-title, .ripro-dark .products-category .category-num, .ripro-dark .choosetype a:hover, .ripro-dark .home-cat-nav-wrap ul li:hover .btn, .ripro-dark .entry-footer .post-meta-box .meta-price, .ripro-dark .lixui-tab-dj, .ripro-dark .button, .ripro-dark .footer-widget .widget--newsletter button, .ripro-dark .float-ul li a:hover, .ripro-dark .zzhuti_qd_1, .ripro-dark .workorder-model-btn, .ripro-dark .navbar .navbar-button-dark, .ripro-dark .edit--profile-links li a.active, .ripro-dark .col-md-12 button, .ripro-dark .register-login-modal .open-oauth .btn-qq, .ripro-dark .btn--primary, .ripro-dark .deansubnavsins, .ripro-dark .header_search .search_btn a, .ripro-dark .header_search .search_btn, .ripro-dark .burger, .ripro-dark .wdsq{
+    background: linear-gradient(-125deg,#9900CC 0%, #66CCFF 100%);
+}
+.ripro-dark .products-category .category-num, .ripro-dark .home-cat-nav-wrap ul li:hover .btn, .ripro-dark .entry-footer .post-meta-box .meta-price, .ripro-dark .btn--secondary, .ripro-dark .navbar .login-btn, .ripro-dark .edit--profile-links li a.active, .ripro-dark .col-md-12 button, .ripro-dark .register-login-modal .open-oauth .btn-qq, .ripro-dark .btn--primary, .ripro-dark .footer-widget .widget--newsletter button, .ripro-dark .button, .ripro-dark .zzhuti_qd_1, .ripro-dark .choosetype a:hover {
+    box-shadow: 0 8px 10px rgba(153,153,255,.3);
+}
+.ripro-dark .u-text-format h1, .ripro-dark .u-text-format h2, .ripro-dark .u-text-format h3, .ripro-dark .u-text-format h4, .ripro-dark .u-text-format h5, .ripro-dark .u-text-format h6 {/*黑暗模式-H1-H6标题*/
+	background-color: #181616;
+}
+
+.ripro-dark .navbar .nav-list>.menu-item>a:hover,.ripro-dark .main-menu li.current-menu-item>a,.main-menu li:hover>a{/*黑暗模式-导航菜单鼠标掠过菜单标题颜色，黑暗模式-导航菜单所在的菜单标题颜色*/
+	color: #9999FF
+}
+.ripro-dark .navbar .nav-list>.menu-item>a:before {/*黑暗模式-导航菜单鼠标掠过菜单标题下的定位标颜色*/
+	background-color: #9900CC;
+}
+
+.ripro-dark .filter--content .filter-item span,.ripro-dark .filter--content .filter-tab span {/*黑暗模式-筛选类别名字*/
+    color: #fff;
+    background: linear-gradient(-125deg,#181616 0%,#171819 100%);
+    border-right: 0px solid;
+}
+.ripro-dark .filter--content .filter-item a:hover,.ripro-dark .filter--content .filter-item a.on {/*黑暗模式-筛选分类*/
+    color: #181616;
+    background: linear-gradient(-125deg,#ffffff 0%,#ffffff 100%);
+}
+.ripro-dark .filter--content .filter-tab a.on,.ripro-dark .filter--content .filter-tab .tab.on i:before {/*黑暗模式-筛选分类价格排序*/
+    color: #66CCFF;
+}
+.ripro-dark .post-grid .cao-cover, .post-list .cao-cover, .menu-post .cao-cover {
+	background: rgba(153,153,255, 0.22);/*黑暗模式-鼠标划过文章网格加载动效颜色*/
+}
+
+.ripro-dark.modular-title-2 .section-title span {/*黑暗模式-分类CMS模块标题*/
+    background-color: #232425;
+    background: #232425;
+    background: url() left center no-repeat;
+}
+
+.ripro-dark .button {/*黑暗模式-网站按钮美化*/
+    box-shadow: 0 3px 10px -1px #9999FF!important;
+}
+/*内容页*/
+.ripro-dark .lixui-post-top a.current {/*正文栏目*/
+    color: #9999FF;
+    border-bottom-color: #66CCFF;
+    border-bottom: 4px solid rgb(102,204,255);
+}
+.ripro-dark .entry-tags a {/*内容下标签*/
+    color: #66CCFF;
+    background-color: #181616;
+    border: 1px solid #2b2b2b;
+    box-shadow: 0 1px 8px #d8eafc;
+}
+.ripro-dark .article-copyright {/*文章版权*/
+    color: #9999FF;
+    border: none;
+    border-left: 2px solid #66CCFF;
+    font-size: 12px;
+    border-radius: 0;
+    box-shadow: 0 1px 8px #d8eafc;
+}
+.ripro-dark .article-copyright a {/*文章版权*/
+    color: #66CCFF;
+}
+.ripro-dark .u-border-title:before {/*相关推荐*/
+    background-color: #66CCFF;
+}
+.ripro-dark .widget-area .widget .widget-title/*侧栏小工具标题*/, .ripro-dark .comments-area #reply-title/*发表评论标题*/, .ripro-dark .lixui-fuwu h3/*售后服务*/ {
+    border-left: 4px solid #66CCFF;
+} 
+.ripro-dark .workorder-model-btn/*联系客服*/ {
+    box-shadow: 0 3px 10px -1px #9999FF!important;
+}
+.ripro-dark .navbar .navbar-button {/*黑暗模式-用户中心旁的搜索图标*/
+    color: #fff;
+    background: linear-gradient(-125deg,#9900CC 0%, #66CCFF 100%);
+}
+
+.ripro-dark a.float-text{color:#EEE} /*黑暗模式-侧边栏字体颜色*/
+.ripro-dark .float-ul{background-color:#000}/* 黑暗模式-侧边栏背景颜色 */
+.ripro-dark .float-ul li a:hover{box-shadow: 0 8px 10px rgba(153,153,255,.3);color:#FFF;}/* 黑暗模式-鼠标掠过背景颜色 */
+
+.ripro-dark .home-first-screen {/*黑暗模式-CMS菜单模块-风格1*/
+	background-color: #232425;
+}
+.ripro-dark .home-first-screen .parts .home-first-part { /*黑暗模式-CMS菜单模块-风格1*/
+    border: 1px solid #2b2b2b;
+    box-shadow: 0 4px 12px 0 #212121;
+    background-color: #171819;
+}
+.ripro-dark .lixui-bj { /*黑暗模式-CMS菜单模块-风格2*/
+    background-color: #232425;
+}
+.ripro-dark .deanggwrap {/*黑暗模式-新发轮播网站统计模块*/
+	background-color: #232425;
+}
+.ripro-dark .deangg {/*黑暗模式-新发轮播网站统计模块*/
+	background-color: #171819;
+}
+.ripro-dark .toptu { /*黑暗模式-全屏动态幻灯片模块*/
+    background-color: #181616;
+}
+.ripro-dark .footer-fav { /*黑暗模式-简介联系提示模块*/
+    background-color:#181616;
+}
+.ripro-dark .footer-fav .site-info h2 a { /*黑暗模式-简介联系提示模块*/
+    color: #FFF;
+}
+.ripro-dark .waveHorizontals { /*黑暗模式-全站底部动态波浪*/
+    width: 100%;
+    height: 20px;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    background-color:#181616 !important;
+}
+.ripro-dark .aini_foot_nav {/*黑暗模式-手机端快捷菜单*/
+	background-color: #232425;
+}
+.ripro-dark .aini_foot_nav .nohover {/*黑暗模式-手机端快捷菜单*/
+    color: #9999FF;
+}
+.ripro-dark .aini_foot_nav li.aini_zjbtn a span i.foot_btn {/*黑暗模式-手机端快捷菜单*/
+    background: linear-gradient(125deg,#9900CC 0,#66CCFF 100%);
+    box-shadow: 0 3px 10px -1px #9999FF!important;
+}
+.ripro-dark .lixui_slogin {/*黑暗模式-悬浮游客登录提示*/
+    background-color: #232425;
+}
+.ripro-dark .lixui_slogin_info {/*黑暗模式-悬浮游客登录提示*/
+    color: #FFF;
+}
+.ripro-dark .lixui-fuwu {/*黑暗模式-内容页售后服务＆联系客服*/
+	background-color: #181616;
+}
+.ripro-dark .lixui-fuwu .helpUl table tr {/*黑暗模式-内容页售后服务＆联系客服*/
+	background-color: #181616;
+}
+.ripro-dark .lixui-fuwu .helpUl table tr:nth-child(2n) {/*黑暗模式-内容页售后服务＆联系客服*/
+	background-color: #232425;
+}
+.ripro-dark #help h2,#down h2 {/*黑暗模式-内容页常见问题FQA*/
+	color:#fff;
+	border-bottom:2px solid #66CCFF;
+}
+.ripro-dark #help dt {/*黑暗模式-内容页常见问题FQA*/
+	color:#CCCCCC;
+}
+.ripro-dark .codecdk-panel {/*黑暗模式-卡密模块*/
+    background-color: #232425;
+}
+.ripro-dark .codecdk-panel .jq22-flex:after,.ripro-dark .codecdk-panel .jq22-flex:before {
+    background: #232425;
+}
